@@ -1,0 +1,15 @@
+{
+  "name": "nawat-nft-ui",
+  "version": "1.0.0",
+  "description": "Frontend for Nawat Al Hikma NFT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
