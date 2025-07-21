@@ -1,4 +1,4 @@
-# Nawat Al Hikma NFT Project
+# Nawah Al Hikma NFT Project
 
 This repository contains the smart contract and frontend UI for the Nawat Al Hikma NFT project.
 
